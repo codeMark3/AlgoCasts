@@ -10,7 +10,7 @@
 //   2
 //   fizz
 //   4
-//   buzz
+//   buzz test
 
 function fizzBuzz(n) {}
 
